@@ -3,17 +3,13 @@
 
 Preliminary
 * Python 3.6+
+* Chromedriver.exe
+* Chrome 浏览器安装好后需将chromedriver.exe放置于Chrome浏览器目录下
 
-Set up
-Chrome Browser (测试版本：v77.0.3865.90)
+#### 安装环境
+* pip install selenium
 
-chromedriver.exe (测试版本：v77.0.3865.40)
-
-Chrome 浏览器安装好后需将chromedriver.exe放置于Chrome浏览器目录下
-
-pip install selenium
-
-Basic usage
+##### Basic usage
 在config.json中输入相应配置信息，具体说明如下：
 
 {
@@ -40,15 +36,12 @@ Basic usage
 
 1）部分门票需要选择城市，只需选择相应城市后将其网址复制到config.json文件的target_url参数即可。
 
-avatar
 
 2）根据需要选择的场次和票价分别修改config.json文件中的sess和price参数。
 
-avatar
 
 3）查看购票须知中实名制一栏，若无需实名制则config.json文件中的real_name参数不需要填写（即为[]）；若每笔订单只需一个证件号则real_name参数只需选择一个；若每张门票需要一个证件号，则real_name参数根据需购票数量进行相应添加。
 
-avatar
 
 若是首次登录，根据终端输出的提示，依次点击登录、扫码登录，代码将自动保存cookie文件（cookie.pkl）
 
@@ -57,5 +50,3 @@ avatar
 配置完成后执行python damai_ticket.py即可,注意观察控制台输出。
 
 本代码为保证抢票顺利，设置循环直到抢票成功才退出循环，若中途需要退出程序请直接终止程序。
-
-
