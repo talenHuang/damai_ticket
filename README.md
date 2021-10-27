@@ -39,6 +39,7 @@
 ### 2021.10.27 更新
 * 脱离python环境，生成exe执行文件
 * exe文件目录：daMaiScrapy-->damai_ticket.exe
+
 如有需求，联系方式：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/fcb3eec3cc3b41b5bc597c221ef71b6c.png#pic_center)
