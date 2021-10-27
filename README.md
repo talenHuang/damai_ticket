@@ -36,6 +36,10 @@
 
 * 本代码为保证抢票顺利，设置循环直到抢票成功才退出循环，若中途需要退出程序请直接终止程序。
 
+#### 2021.10.27 更新
+* 脱离python环境，生成exe执行文件
+* exe文件目录：daMaiScrapy-->damai_ticket.exe
+
 如果你觉得我写得东西对你有所帮助，可以扫描下面的打(yao)赏(fan)二维码给我微信转账支持我，谢谢~
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/146fa13e98214546b320f531f53b12fa.png#pic_center)
 
