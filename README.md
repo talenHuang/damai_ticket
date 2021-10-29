@@ -38,7 +38,7 @@
 
 ### 2021.10.27 更新
 * 脱离python环境，生成exe执行文件
-* exe文件目录：daMaiScrapy-->damai_ticket.exe
+* 下载地址：https://blog.csdn.net/weixin_35770067/category_10696190.html
 
 如有需求，联系方式：
 
