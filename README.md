@@ -47,6 +47,7 @@
 ### 2021.12.10 更新
 * 根据粉丝反馈，支持【日期】选择功能
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/efa9d7b9825b46caa700bd72a9c9ee89.png)
+* 下载地址：https://blog.csdn.net/weixin_35770067/category_10696190.html
 
 ### 2021.12.10
 * [薛之谦演唱会](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.57344206jb38CA&id=658630460380&clicktitle=%E8%96%9B%E4%B9%8B%E8%B0%A6%E2%80%9C%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E2%80%9D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E7%AB%99)
