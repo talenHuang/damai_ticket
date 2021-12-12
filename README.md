@@ -8,6 +8,7 @@
 
 在`config.json`中输入相应配置信息，具体说明如下：
 
+* `date`: 日期选择
 * `sess`: 场次优先级列表，如本例中共有三个场次，根据下表，则优先选择1，再选择2，最后选择3；也可以仅设置1个。
 * `price`: 票价优先级，如本例中共有三档票价，根据下表，则优先选择1，再选择3；也可以仅设置1个。
 * `real_name`: [1,2], 实名者序号，如本例中根据序号共选择两位实名者，根据序号，也可仅选择一位
@@ -41,14 +42,9 @@
 * 下载地址：https://blog.csdn.net/weixin_35770067/category_10696190.html
 
 订阅CSDN文章后有问题，可以添加我的联系方式：
+![image](https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/fcb3eec3cc3b41b5bc597c221ef71b6c.png)
 
-### 2021.12.10 更新
-* 根据粉丝反馈，支持【日期】选择功能
-![在这里插入图片描述](https://img-blog.csdnimg.cn/efa9d7b9825b46caa700bd72a9c9ee89.png)
-
-* 下载地址：https://blog.csdn.net/weixin_35770067/category_10696190.html
 
 ### 2021.12.12 更新
 感谢[Fly1nDutchman](https://github.com/ouyangjunfei?tab=repositories)在其他购票页面发现的问题，经过验证，我已经合并代码，特再次进行说明，表示感谢。
@@ -60,6 +56,8 @@
 修复2：特惠场次有票但无法被选中的问题
 * 测试地址： https://detail.damai.cn/item.htm?id=659519464426
 
+修复3：支持日期选择
+![image](https://user-images.githubusercontent.com/37463338/145716541-e74a3624-7ebf-45c0-ae64-c30e2211af9e.png)
 
 ### 热门演唱会信息
 * [薛之谦演唱会](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.57344206jb38CA&id=658630460380&clicktitle=%E8%96%9B%E4%B9%8B%E8%B0%A6%E2%80%9C%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E2%80%9D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E7%AB%99)
