@@ -72,11 +72,11 @@
 ### 赞赏
 <p align="center"><strong>如果我的开源项目对你有所帮助，可以使用微信/支付宝请我喝杯咖啡</strong></p>
 
-<p align="left">
-<img width="300" src="https://user-images.githubusercontent.com/37463338/145717056-1abc5915-6312-464c-91ce-32833cd46bf6.png">
+<p align="center">
+<img width="300" src="https://user-images.githubusercontent.com/37463338/145717146-96da777d-3031-4f9a-9196-6345a95d2c2c.JPG">
 </p>
-<p align="right">
-<img width="300" src="https://user-images.githubusercontent.com/37463338/145717055-7f4c46ff-a9cd-48f8-a01a-90cd91f5cbf0.png">
+<p align="center">
+<img width="300" src="https://user-images.githubusercontent.com/37463338/145717159-fe59ed1d-f396-44c7-b2ac-3aa0bcafe074.JPG">
 </p>
 
 ### 热门演唱会信息
