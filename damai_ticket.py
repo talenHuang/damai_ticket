@@ -160,6 +160,9 @@ class Concert(object):
                         elif k.text == '预售':
                             j.click()
                             break
+                        elif k.text == '惠':
+                            j.click()
+                            break
                     else:
                         j.click()# 选定好场次点击按钮确定
                         break
