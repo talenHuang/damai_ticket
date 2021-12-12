@@ -42,8 +42,9 @@
 * 下载地址：https://blog.csdn.net/weixin_35770067/category_10696190.html
 
 订阅CSDN文章后有问题，可以添加我的联系方式：
-![image](https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png)
-
+<p align="center">
+<img width="300" src="https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png">
+</p>
 
 
 ### 2021.12.12 更新
@@ -65,7 +66,7 @@
 * 写一个漂亮的c#界面
 
 ### 赞赏
-<p align="center"><strong>如果我的开源项目对你有所帮助，可以使用微信赞赏</strong></p>
+<p align="center"><strong>如果我的开源项目对你有所帮助，可以使用微信/支付宝请我喝杯咖啡</strong></p>
 
 ### 热门演唱会信息
 * [薛之谦演唱会](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.57344206jb38CA&id=658630460380&clicktitle=%E8%96%9B%E4%B9%8B%E8%B0%A6%E2%80%9C%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E2%80%9D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E7%AB%99)
