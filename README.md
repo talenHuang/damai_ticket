@@ -91,7 +91,7 @@
 
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/37463338/145717146-96da777d-3031-4f9a-9196-6345a95d2c2c.JPG" width="180" height="105"> width="180" height="105"/>
+<img src="https://user-images.githubusercontent.com/37463338/145717146-96da777d-3031-4f9a-9196-6345a95d2c2c.JPG" width="300" height="300">
 </div>
 
 
