@@ -86,7 +86,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/37463338/145717146-96da777d-3031-4f9a-9196-6345a95d2c2c.JPG)  |  ![](https://user-images.githubusercontent.com/37463338/145717146-96da777d-3031-4f9a-9196-6345a95d2c2c.JPG)
+![](https://user-images.githubusercontent.com/37463338/145717146-96da777d-3031-4f9a-9196-6345a95d2c2c.JPG){:height="50%" width="50%"}  |  ![](https://user-images.githubusercontent.com/37463338/145717146-96da777d-3031-4f9a-9196-6345a95d2c2c.JPG)
 
 
 ### 热门演唱会信息
