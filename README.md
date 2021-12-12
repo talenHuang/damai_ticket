@@ -59,6 +59,14 @@
 修复3：支持日期选择
 ![image](https://user-images.githubusercontent.com/37463338/145716541-e74a3624-7ebf-45c0-ae64-c30e2211af9e.png)
 
+### 后续更新计划
+* 计划增加座位选择，有些演唱会可以在线选座，等于到的时候我再加上去吧。
+* 优化代码抢购时间
+* 写一个漂亮的c#界面
+
+### 赞赏
+<p align="center"><strong>如果我的开源项目对你有所帮助，可以使用微信赞赏</strong></p>
+
 ### 热门演唱会信息
 * [薛之谦演唱会](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.57344206jb38CA&id=658630460380&clicktitle=%E8%96%9B%E4%B9%8B%E8%B0%A6%E2%80%9C%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E2%80%9D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E7%AB%99)
 * [李荣浩广州演唱会](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.7e141ffaOOsGL3&id=660857675535&clicktitle=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E2%80%9C%E9%BA%BB%E9%9B%80%E2%80%9D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%B9%BF%E5%B7%9E%E7%AB%99)
