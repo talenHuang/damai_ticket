@@ -53,14 +53,16 @@
 修复1：支持关闭实名制遮罩
 * 测试地址：https://detail.damai.cn/item.htm?&id=662062693636
 <p align="center">
-<img width="300" src="https://user-images.githubusercontent.com/37463338/145715661-56e0a495-2809-461e-beb2-7030fbe8e748.png">
+<img width="500" src="https://user-images.githubusercontent.com/37463338/145715661-56e0a495-2809-461e-beb2-7030fbe8e748.png">
 </p>
 
 修复2：特惠场次有票但无法被选中的问题
 * 测试地址： https://detail.damai.cn/item.htm?id=659519464426
 
 修复3：支持日期选择
-![image](https://user-images.githubusercontent.com/37463338/145716541-e74a3624-7ebf-45c0-ae64-c30e2211af9e.png)
+<p align="center">
+<img width="500" src="https://user-images.githubusercontent.com/37463338/145716541-e74a3624-7ebf-45c0-ae64-c30e2211af9e.png">
+</p>
 
 ### 后续更新计划
 * 计划增加座位选择，有些演唱会可以在线选座，等于到的时候我再加上去吧。
