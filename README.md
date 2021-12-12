@@ -70,7 +70,7 @@
 * 写一个漂亮的c#界面
 
 ### 赞赏
-<p align="center"><strong>如果我的开源项目对你有所帮助，可以使用微信/支付宝请我喝杯咖啡</strong></p>
+<p align="left"><strong>如果我的开源项目对你有所帮助，可以使用微信/支付宝请我喝杯咖啡</strong></p>
 
 <p align="center">
 <img width="300" src="https://user-images.githubusercontent.com/37463338/145717146-96da777d-3031-4f9a-9196-6345a95d2c2c.JPG">
