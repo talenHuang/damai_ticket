@@ -122,6 +122,14 @@ class Concert(object):
                 raise Exception(u"***Error: 页面刷新出错***")
 
             try:
+                realname_popup = box.find_elements_by_xpath("//div[@class='realname-popup']")  # 寻找实名身份遮罩
+                if len(realname_popup) != 0:
+                    known_button = realname_popup[0].find_elements_by_xpath("//div[@class='operate']//div[@class='button']")
+                    known_button[0].click()
+            except:
+                raise Exception(u"***Error: 实名制遮罩关闭失败***")
+
+            try:
                 buybutton = box.find_element_by_class_name('buybtn') # 寻找立即购买标签
                 buybutton_text = buybutton.text
             except:
