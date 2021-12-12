@@ -53,6 +53,11 @@
 ### 2021.12.12 更新
 感谢[Fly1nDutchman](https://github.com/ouyangjunfei?tab=repositories)在其他购票页面发现的问题，经过验证，我已经合并代码，特再次进行说明，表示感谢。
 
+修复1：
+* 测试地址：https://detail.damai.cn/item.htm?&id=662062693636
+![image](https://user-images.githubusercontent.com/37463338/145715661-56e0a495-2809-461e-beb2-7030fbe8e748.png)
+
+
 ### 2021.12.10
 * [薛之谦演唱会](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.57344206jb38CA&id=658630460380&clicktitle=%E8%96%9B%E4%B9%8B%E8%B0%A6%E2%80%9C%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E2%80%9D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E7%AB%99)
 * [李荣浩广州演唱会](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.7e141ffaOOsGL3&id=660857675535&clicktitle=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E2%80%9C%E9%BA%BB%E9%9B%80%E2%80%9D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%B9%BF%E5%B7%9E%E7%AB%99)
