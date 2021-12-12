@@ -10,7 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 class Concert(object):
-    def __init__(self, session, price, real_name, nick_name, ticket_num, damai_url, target_url,driver_path):
+    def __init__(self, date, session, price, real_name, nick_name, ticket_num, damai_url, target_url,driver_path):
+        self.date = date  # 日期序号
         self.session = session  # 场次序号优先级
         self.price = price  # 票价序号优先级
         self.real_name = real_name  # 实名者序号
@@ -140,14 +141,26 @@ class Concert(object):
                 raise Exception(u"---尚未开售，刷新等待---")
 
             try:
-                selects = box.find_elements_by_class_name('perform__order__select') # 场次和票档进行定位
+                selects = box.find_elements_by_class_name('perform__order__select') # 日期、场次和票档进行定位
+                date = None  # 有的演出没有日期的选项
                 for item in selects:
-                    if item.find_element_by_class_name('select_left').text == '场次':
+                    if item.find_element_by_class_name('select_left').text == '日期':
+                        date = item
+                        # print('\t日期定位成功')
+                    elif item.find_element_by_class_name('select_left').text == '场次':
                         session = item
                         # print('\t场次定位成功')
                     elif item.find_element_by_class_name('select_left').text == '票档':
                         price = item
                         # print('\t票档定位成功')
+
+                if date is not None:
+                    date_list = date.find_elements_by_xpath("//div[@class='wh_content_item']//div[starts-with(@class,'wh_item_date')]") #选定日期
+                    # print('可选日期数量为：{}'.format(len(date_list)))
+                    for i in self.date:
+                        j = date_list[i-1]
+                        j.click()
+                        break
 
                 session_list = session.find_elements_by_class_name('select_right_list_item')#选定场次
                 # print('可选场次数量为：{}'.format(len(session_list)))
@@ -178,7 +191,7 @@ class Concert(object):
                         j.click()#选定好票档点击确定
                         break
             except:
-                raise Exception(u"***Error: 选择场次or票档不成功***")
+                raise Exception(u"***Error: 选择日期or场次or票档不成功***")
 
             try:
                 ticket_num_up = box.find_element_by_class_name('cafe-c-input-number-handler-up')
@@ -255,7 +268,7 @@ if __name__ == '__main__':
         with open('./config.json', 'r', encoding='utf-8') as f:
             config = loads(f.read())
             # params: 场次优先级，票价优先级，实名者序号, 用户昵称， 购买票数， 官网网址， 目标网址, 浏览器驱动地址
-        con = Concert(config['sess'], config['price'], config['real_name'], config['nick_name'], config['ticket_num'], config['damai_url'], config['target_url'], config['driver_path'])
+        con = Concert(config['date'], config['sess'], config['price'], config['real_name'], config['nick_name'], config['ticket_num'], config['damai_url'], config['target_url'], config['driver_path'])
         con.enter_concert() #进入到具体抢购页面
     except Exception as e:
         print(e)
