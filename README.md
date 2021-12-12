@@ -53,7 +53,7 @@
 ### 2021.12.12 更新
 感谢[Fly1nDutchman](https://github.com/ouyangjunfei?tab=repositories)在其他购票页面发现的问题，经过验证，我已经合并代码，特再次进行说明，表示感谢。
 
-修复1：
+修复1：支持关闭实名制遮罩
 * 测试地址：https://detail.damai.cn/item.htm?&id=662062693636
 ![image](https://user-images.githubusercontent.com/37463338/145715661-56e0a495-2809-461e-beb2-7030fbe8e748.png)
 
