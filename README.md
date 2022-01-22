@@ -47,6 +47,8 @@
 <img width="200" src="https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png">
 </p>
 
+### 2022.01.22 更新
+* 增加支持自动选座功能，仅限订阅CSDN博客可用。
 
 ### 2021.12.12 更新
 感谢[Fly1nDutchman](https://github.com/ouyangjunfei?tab=repositories)在其他购票页面发现的问题，经过验证，我已经合并代码，特再次进行说明，表示感谢。
