@@ -47,6 +47,12 @@
 <img width="200" src="https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png">
 </p>
 
+### 2022.01.28 更新 秀动抢票
+<p align="center">
+<img width="500" src="https://img-blog.csdnimg.cn/41b06e6211d7477483df1f83632711af.png">
+</p>
+
+
 ### 2022.01.22 更新
 * 增加支持自动选座功能，仅限订阅CSDN博客可用。
 
