@@ -49,7 +49,7 @@
 
 ### 2022.01.28 更新 秀动抢票
 <p align="center">
-<img height="400" width="800" src="https://img-blog.csdnimg.cn/41b06e6211d7477483df1f83632711af.png">
+<img height="400" width="800" src="https://img-blog.csdnimg.cn/bc39433839064ec7be991a6e3e1889d4.png">
 </p>
 
 
