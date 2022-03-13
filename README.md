@@ -47,12 +47,14 @@
 <img width="200" src="https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png">
 </p>
 
+### 2022.03.13 更新
+* 修复某些抢票选座功能，仅限订阅CSDN博客可用。
+
 ### 2022.01.28 更新 秀动抢票
 <p align="center">
 <img width="600" src="https://img-blog.csdnimg.cn/bc39433839064ec7be991a6e3e1889d4.png">
 </p>
 * 地址：https://blog.csdn.net/weixin_35770067/category_10696190.html?spm=1001.2014.3001.5482
-
 
 ### 2022.01.22 更新
 * 增加支持自动选座功能，仅限订阅CSDN博客可用。
