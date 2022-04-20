@@ -47,6 +47,10 @@
 <img width="200" src="https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png">
 </p>
 
+### 2022.04.20 更新 正在现场抢票
+* 地址：https://blog.csdn.net/weixin_35770067/category_10696190.html?spm=1001.2014.3001.5482
+
+
 ### 2022.03.13 更新
 * 修复某些抢票选座功能，仅限订阅CSDN博客可用。
 
