@@ -40,7 +40,7 @@
 ### 纯小白使用
 * 脱离python和chrome浏览器环境，生成exe执行文件
 * 如果是无编程基础或者不想搭建一列环境的同学可以订阅我的付费专栏，可以进行详细讲解
-* 博客地址：https://blog.csdn.net/weixin_35770067/category_10696190.html
+* 博客地址：https://blog.csdn.net/weixin_35770067/category_10688081.html
 
 订阅CSDN文章后有问题，可以添加我的联系方式：
 <p align="center">
@@ -48,7 +48,7 @@
 </p>
 
 ### 2022.04.20 更新 正在现场抢票
-* 地址：https://blog.csdn.net/weixin_35770067/category_10696190.html?spm=1001.2014.3001.5482
+* 地址：https://blog.csdn.net/weixin_35770067/category_10688081.html
 
 
 ### 2022.03.13 更新
@@ -58,7 +58,7 @@
 <p align="center">
 <img width="600" src="https://img-blog.csdnimg.cn/bc39433839064ec7be991a6e3e1889d4.png">
 </p>
-* 地址：https://blog.csdn.net/weixin_35770067/category_10696190.html?spm=1001.2014.3001.5482
+* 地址：https://blog.csdn.net/weixin_35770067/category_10688081.html
 
 ### 2022.01.22 更新
 * 增加支持自动选座功能，仅限订阅CSDN博客可用。
