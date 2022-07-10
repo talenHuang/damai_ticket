@@ -1,10 +1,10 @@
-#### 提前准备
+### 提前准备
 * Python 3.6+
 * Chromedriver.exe
 * Chrome 浏览器安装好后需将chromedriver.exe放置于Chrome浏览器目录下
 * pip install selenium
 
-#### 参数设置
+### 参数设置
 
 在`config.json`中输入相应配置信息，具体说明如下：
 
@@ -37,22 +37,22 @@
 
 * 本代码为保证抢票顺利，设置循环直到抢票成功才退出循环，若中途需要退出程序请直接终止程序。
 
-### 博客地址
-* 脱离python和chrome浏览器环境，生成exe执行文件
-* 如果是无编程基础或者不想搭建一列环境的同学可以订阅我的付费专栏，可以进行详细讲解
-* 博客地址：https://blog.csdn.net/weixin_35770067/category_10688081.html
 
-订阅CSDN文章后有问题，可以添加我的联系方式：
-<p align="center">
-<img width="200" src="https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png">
-</p>
+
+
 
 ### 更新
+以下内容在博客：https://blog.csdn.net/weixin_35770067/category_10688081.html  付费专栏进行更新
 * 2022.07.10：增加下单页面验证码自动识别模块
 * 2022.04.20 更新正在现场抢票
 * 2022.03.13：修复抢票选座功能
 * 2022.01.28：更新秀动抢票
 * 2022.01.22：增加支持自动选座功能
+
+订阅CSDN文章后有问题，可以添加我的联系方式：
+<p align="center">
+<img width="200" src="https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png">
+</p>
 
 
 感谢[Fly1nDutchman](https://github.com/ouyangjunfei?tab=repositories)在其他购票页面发现的问题，经过验证，我已经合并代码，特再次进行说明，表示感谢。
@@ -76,4 +76,3 @@
 * [薛之谦演唱会](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.57344206jb38CA&id=658630460380&clicktitle=%E8%96%9B%E4%B9%8B%E8%B0%A6%E2%80%9C%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E2%80%9D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E7%AB%99)
 * [李荣浩广州演唱会](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.7e141ffaOOsGL3&id=660857675535&clicktitle=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E2%80%9C%E9%BA%BB%E9%9B%80%E2%80%9D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%B9%BF%E5%B7%9E%E7%AB%99)
 * [北京保利·央华“神州九城，共享明天”2021演出行动 央华版 如梦之梦](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.310919488fszNB&id=662432820667&clicktitle=%E4%BF%9D%E5%88%A9%C2%B7%E5%A4%AE%E5%8D%8E%E2%80%9C%E7%A5%9E%E5%B7%9E%E4%B9%9D%E5%9F%8E%EF%BC%8C%E5%85%B1%E4%BA%AB%E6%98%8E%E5%A4%A9%E2%80%9D2021%E6%BC%94%E5%87%BA%E8%A1%8C%E5%8A%A8%20%E5%A4%AE%E5%8D%8E%E7%89%88%E3%80%8A%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%E3%80%8B)
-   * 黄牛加价2000+
