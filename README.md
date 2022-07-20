@@ -50,10 +50,7 @@
 * 2022.01.28：更新秀动抢票
 * 2022.01.22：增加支持自动选座功能
 
-订阅CSDN文章后有问题，可以添加我的联系方式：
-<p align="center">
-<img width="200" src="https://user-images.githubusercontent.com/37463338/145716647-5bf61260-c1d5-4a4a-9b85-ce8dedf8aeeb.png">
-</p>
+订阅CSDN文章后有问题，可以添加我的联系方式
 
 
 感谢[Fly1nDutchman](https://github.com/ouyangjunfei?tab=repositories)在其他购票页面发现的问题，经过验证，我已经合并代码，特再次进行说明，表示感谢。
