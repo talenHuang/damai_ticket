@@ -1,5 +1,5 @@
 ### 提前准备
-* Python 3.0+
+* Python 3.6.3
 * Chromedriver.exe
 * Chrome 浏览器安装好后需将chromedriver.exe放置于Chrome浏览器目录下
 * pip install selenium requests lxml
